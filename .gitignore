@@ -1,0 +1,6 @@
+config.json
+state/
+__pycache__/
+*.log
+.env
+*.db
